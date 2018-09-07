@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Medi Aid">
+        <menu>
+            <item android:id="@+id/meds_list"
+                android:title="Med List" />
+            <item
+                android:id="@+id/search_meds"
+                android:title="Meds Search"
+                />
+            <item
+                android:id="@+id/meds_billing"
+                android:title="Meds Billing"
+                />
+
+            <item android:id="@+id/sign_out"
+                android:title="Sign out"/>
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>

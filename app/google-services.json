@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512004508596",
+    "firebase_url": "https://siicmediaid.firebaseio.com",
+    "project_id": "siicmediaid",
+    "storage_bucket": "siicmediaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512004508596:android:7067694769806d26",
+        "android_client_info": {
+          "package_name": "ooo.mediaid.siicmedilife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512004508596-0fl3bf9qdu063eq6qt7psuich59qnosj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWINclCRXfkxuqQ84c7e7sZrfZy8PXlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
